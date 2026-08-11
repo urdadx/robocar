@@ -1,5 +1,8 @@
 # robocar
 
+### A remote controlled robot car made with esp32 + raspberry pi. (WIP)
+![alt text](image.png)
+
 To install dependencies:
 
 ```bash
