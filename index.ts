@@ -22,7 +22,7 @@ const server = Bun.serve({
 
     return Response.json({ error: "Not found" }, { status: 404 });
   },
-  websocket: {
+  websocket: {  
     open(socket) {
       socket.send("Connected to the WebSocket server");
     },
