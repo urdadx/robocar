@@ -1,7 +1,10 @@
 # robocar
 
 ### A remote controlled robot car made with esp32 + raspberry pi. (WIP)
-![alt text](image.png)
+<p align="center">
+  <img src="image.png" alt="Robocar parts laid out for assembly" width="49%">
+  <img src="phase0.jpeg" alt="Initial assembled robocar prototype" width="49%">
+</p>
 
 To install dependencies:
 
