@@ -13,8 +13,6 @@
 
 ESP32 DevKit, L298N motor driver (HW-095), two TT gear motors, 4×AA pack with a switch for the motors, and a USB power bank for the ESP32.
 
-Wiring diagram: https://claude.ai/artifact/5afxJgceoitAu9SKPkZzAc
-
 | ESP32   | L298N | Job                    |
 |---------|-------|------------------------|
 | GPIO 25 | ENA   | Left motor speed (PWM) |

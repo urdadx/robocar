@@ -2,7 +2,7 @@
 
 #include <Arduino.h>
 
-// L298N control pins. Wiring diagram: https://claude.ai/artifact/5afxJgceoitAu9SKPkZzAc
+// L298N control pins.
 constexpr int PIN_ENA = 25;  // left motor speed
 constexpr int PIN_IN1 = 26;
 constexpr int PIN_IN2 = 27;
